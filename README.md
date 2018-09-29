@@ -1,3 +1,3 @@
 # hello-world
-aprendiendo
-Me soy estudiante de ingenieria de sistemas 
+
+yo soy estudiante de ingenieria de sistemas 
